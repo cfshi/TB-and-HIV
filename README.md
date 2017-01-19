@@ -1,8 +1,5 @@
 # We try to study TB, HIV, TB screening and HIV testing.
 
-
-[[Health_index:_A_DHS_data_anaysis | main DHS page]]
-
 Ethnographic research of how they cop with the disease within their community
 
 [http://www.nytimes.com/2010/10/26/health/26cases.html?_r=1&hpw Trying to Follow the Trail of Missing AIDS Patients]:  A NYT article on HIV patients in Kenya on their medical and social resources.
